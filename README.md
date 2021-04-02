@@ -8,6 +8,6 @@
 
 ### Stats
 
-![BBassie's github stats](https://github-readme-stats.vercel.app/api?username=bbassie&count_private=true&show_icons=true&theme=dark)
+![BBassie's github stats](https://github-readme-stats.vercel.app/api?username=bbassie&count_private=true&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbassie&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbassie&layout=compact&theme=default)
