@@ -2,9 +2,7 @@
 
 🔭 I’m currently working on: Private project to automate Factorio server hosting
 
-🌱 I’m currently learning: Golang, Rust
-
-📫 How to reach me: badgamernl@gmail.com
+🌱 I’m currently learning: Golang
 
 ### Stats
 
